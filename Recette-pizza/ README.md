@@ -1,5 +1,5 @@
 
-# Reccete de pizza
+# Recette de pizza
 
 Dans cet atelier vous allez imaginer un site web qui propose des recettes de pizzas. Plusieurs type d’utilisateurs auront accès à ce site :
 
